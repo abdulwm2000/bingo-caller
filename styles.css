@@ -1,0 +1,41 @@
+@import url("//db.onlinewebfonts.com/c/324ba454679fbaf195dbd9a8843a8d04?family=Amasis+MT+Std");
+
+body {
+    background-color: #f28c83;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Amasis MT Std';
+    color: #fff;
+}
+h1 {
+    font-size: 7rem;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+/* button {
+    font-size: 2em;
+    padding: 0.5em 1em;
+    border: none;
+    background-color: #3498db;
+    color: white;
+    cursor: pointer;
+} */
+#call {
+    font-size: 4em;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+#previous-calls {
+    margin-top: 1em;
+    padding: 0;
+    list-style: none;
+}
+#previous-calls li {
+    font-size: 1.2em;
+    margin: 0.5em;
+}
