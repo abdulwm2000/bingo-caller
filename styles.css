@@ -11,6 +11,10 @@ body{
     font-family: 'Amasis MT Std';
     color: #fff;
 }
+
+ul li{
+    color: #291f1e;
+}
 h1 {
     font-size: 7rem;
     margin-top: 1em;
@@ -25,7 +29,8 @@ h1 {
     cursor: pointer;
 } */
 #call {
-    font-size: 4em;
+    color: #291f1e;
+    font-size: 6em;
     margin-top: 1em;
     margin-bottom: 0.5em;
 }
@@ -38,4 +43,8 @@ h1 {
 #previous-calls li {
     font-size: 1.2em;
     margin: 0.5em;
+}
+
+.card-body{
+    background-color: #fabab4;
 }
